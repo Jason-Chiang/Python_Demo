@@ -3,3 +3,10 @@ windows edit
 =======
 ubuntu edit
 >>>>>>> 31c76b656c4f740672d2228db14dff7bf61c3b8a
+
+
+
+Hello word!!!
+
+
+This is a good day!!
