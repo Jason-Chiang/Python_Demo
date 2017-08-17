@@ -1,6 +1,17 @@
+<<<<<<< HEAD
+windows edit
+=======
 ubuntu edit
-
-
-
-
+<<<<<<< HEAD
+-
+-
+-
+-
 This is ubuntu edit 2
+-
+-
+-
+Hello word!!!
+-
+-
+This is a good day!!
